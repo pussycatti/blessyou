@@ -1,0 +1,5 @@
+requests
+mailslurp-client
+twocaptcha
+undetected-chromedriver
+selenium
